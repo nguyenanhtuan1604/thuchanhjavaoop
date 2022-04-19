@@ -1,4 +1,4 @@
-package App67;
+package app67;
 
 public class HinhTron {
 
