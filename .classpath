@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="baithuchanh0703/src"/>
+	<classpathentry kind="src" path="baithuchanh0905/src"/>
+	<classpathentry kind="src" path="Baithuchanh1/src"/>
+	<classpathentry kind="src" path="baithuchanh1804/src"/>
+	<classpathentry kind="src" path="Baithuchanh2/src"/>
+	<classpathentry kind="src" path="baithuchanh2102/src"/>
+	<classpathentry kind="src" path="baithuchanh2103/src"/>
+	<classpathentry excluding="Car/|Main/|Animal/" kind="src" path="BaiThucHanh2504/src"/>
+	<classpathentry kind="src" path="BaiThucHanh2504/src/Animal"/>
+	<classpathentry kind="src" path="BaiThucHanh2504/src/Car"/>
+	<classpathentry kind="src" path="BaiThucHanh2504/src/Main"/>
+	<classpathentry kind="src" path="baithuchanh254/src"/>
+	<classpathentry kind="src" path="baithuchanh2802/src"/>
+	<classpathentry kind="src" path="Baithuchanh3/src"/>
+	<classpathentry kind="src" path="baithuchanhchuong2/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
